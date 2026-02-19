@@ -1,0 +1,15 @@
+# Futures Intel - Streamlit Community Cloud
+ccxt>=4.0.0
+pandas>=2.0.0
+ta>=0.11.0
+vectorbt>=0.26.0
+duckdb>=0.9.0
+pydantic-settings>=2.0.0
+httpx>=0.25.0
+typer>=0.9.0
+rich>=13.0.0
+python-dotenv>=1.0.0
+apscheduler>=3.10.0
+loguru>=0.7.0
+streamlit>=1.28.0
+plotly>=5.18.0
